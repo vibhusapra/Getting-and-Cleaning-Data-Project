@@ -1,5 +1,5 @@
-# Getting-and-Cleaning-Data-Project
-## Getting and Cleaning Data
+# Getting and Cleaning Data Project
+## Course Project
 
 You should create one R script called run_analysis.R that does the following.
 
